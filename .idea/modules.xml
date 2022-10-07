@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java3Camp2022.iml" filepath="$PROJECT_DIR$/.idea/java3Camp2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonraAyarla/sonraAyarla.iml" filepath="$PROJECT_DIR$/sonraAyarla/sonraAyarla.iml" />
+    </modules>
+  </component>
+</project>
